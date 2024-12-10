@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Joan"
+  given-names: "Harpo"
+title: "Pràctiques de Programació Concurrent"
+date-released: "2024"
+url: "https://github.com/helveticka/programacio-concurrent"

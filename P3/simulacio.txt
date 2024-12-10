@@ -1,0 +1,62 @@
+La simulació dels arxius és satisfactòria. S'adjunta en l'arxiu "simulacio.png" una imatge en la que es veu el funcionament correcte i sincronitzat.
+Els distints terminals han mostrat per pantalla el següent:
+
+TERMINAL DE L'ESTANQUER
+helveticka@Mac Pràctica 3 % go run estanquer.go
+
+Hola, som l'estanquer il·legal
+
+He posat el misto 1 damunt la taula
+He posat el tabac 1 damunt la taula
+He posat el misto 2 damunt la taula
+He posat el tabac 2 damunt la taula
+He posat el misto 3 damunt la taula
+He posat el tabac 3 damunt la taula
+He posat el misto 4 damunt la taula
+
+Uyuyuy la policia! Men vaig 
+. . . Men duc la taula!!!!
+
+TERMINAL DEL FUMADOR DE TABAC 
+helveticka@Mac Pràctica 3 % go run fumadorTabac.go
+
+Sóm fumador. Tinc mistos però me falta tabac
+
+He agafat el tabac 1. Gràcies! 
+. . . 
+Me dones més tabac?
+He agafat el tabac 2. Gràcies! 
+. . . 
+Me dones més tabac?
+He agafat el tabac 3. Gràcies! 
+. . . 
+Me dones més tabac?
+Anem, que ve la policia!
+
+TERMINAL DEL FUMADOR DE MISTOS 
+
+helveticka@Mac Pràctica 3 % go run fumadorMistos.go
+
+Sóm fumador. Tinc tabac però me falten mistos
+
+He agafat el misto 1. Gràcies! 
+. . . 
+Me dones un altre misto?
+He agafat el misto 2. Gràcies! 
+. . . 
+Me dones un altre misto?
+He agafat el misto 3. Gràcies! 
+. . . 
+Me dones un altre misto?
+He agafat el misto 4. Gràcies! 
+. . . 
+Me dones un altre misto?
+Anem, que ve la policia!
+
+TERMINAL DEL FUMADOR XIVATO
+
+helveticka@Mac Pràctica 3 % go run fumadorXivato.go
+
+No sóm fumador. ALERTA! Que ve la policia!
+
+. . .

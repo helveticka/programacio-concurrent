@@ -1,0 +1,65 @@
+SIMULACIÓ AMB 4 CLIENTS I 2 REPOSADORS
+
+Els dos reposadors arriben a la màquina, després van arribant el clients i diuen
+les consumicions que faran. El reposador 1 reposa 10 refrescs i els clients 
+comencen a consumir. Com n'Aina només té una consumició acaba la primera.
+Els altres clients van consumint mentres els reposadors reposen i la simulació 
+fa el que es demana correctament.
+
+********** La màquina està preparada
+     El reposador 1 comença a treballar
+     El reposador 2 comença a treballar
+Bernat diu: Hola, avui faré 4 consumicions
+Albert diu: Hola, avui faré 2 consumicions
+Aina diu: Hola, avui faré 1 consumicions
+Bel diu: Hola, avui faré 5 consumicions
+++++++++++ El reposador 1 reposa 10 refrescs, ara n'hi ha 10
+---------- Bernat agafa el refresc 1 / 4 a la màquina en queden 9
+---------- Albert agafa el refresc 1 / 2 a la màquina en queden 8
+---------- Aina agafa el refresc 1 / 1 a la màquina en queden 7
+---------- Bel agafa el refresc 1 / 5 a la màquina en queden 6
+++++++++++ El reposador 2 reposa 4 refrescs, ara n'hi ha 10
+Aina acaba i se'n va, queden 3 clients >>>>>>>>>>
+---------- Bel agafa el refresc 2 / 5 a la màquina en queden 9
+---------- Albert agafa el refresc 2 / 2 a la màquina en queden 8
+---------- Bernat agafa el refresc 2 / 4 a la màquina en queden 7
+---------- Bel agafa el refresc 3 / 5 a la màquina en queden 6
+Albert acaba i se'n va, queden 2 clients >>>>>>>>>>
+---------- Bernat agafa el refresc 3 / 4 a la màquina en queden 5
+++++++++++ El reposador 1 reposa 5 refrescs, ara n'hi ha 10
+---------- Bel agafa el refresc 4 / 5 a la màquina en queden 9
+---------- Bernat agafa el refresc 4 / 4 a la màquina en queden 8
+---------- Bel agafa el refresc 5 / 5 a la màquina en queden 7
+Bernat acaba i se'n va, queden 1 clients >>>>>>>>>>
+Bel acaba i se'n va, queden 0 clients >>>>>>>>>>
+++++++++++ El reposador 1 reposa 3 refrescs, ara n'hi ha 10
+++++++++++ El reposador 1 diu: No hi ha clients me'n vaig
+++++++++++ El reposador 2 diu: No hi ha clients me'n vaig
+     El reposador 1 acaba i se'n va >>>>>>>>>>
+     El reposador 2 acaba i se'n va >>>>>>>>>>
+
+SIMULACIÓ AMB 0 CLIENTS I 3 REPOSADORS
+
+Els reposadors detecten que no hi ha clients i acaben.
+
+********** La màquina està preparada
+     El reposador 1 comença a treballar
+++++++++++ El reposador 1 diu: No hi ha clients me'n vaig
+     El reposador 2 comença a treballar
+++++++++++ El reposador 2 diu: No hi ha clients me'n vaig
+     El reposador 3 comença a treballar
+++++++++++ El reposador 3 diu: No hi ha clients me'n vaig
+     El reposador 1 acaba i se'n va >>>>>>>>>>
+     El reposador 2 acaba i se'n va >>>>>>>>>>
+     El reposador 3 acaba i se'n va >>>>>>>>>>
+
+SIMULACIÓ AMB 5 CLIENTS I 0 REPOSADORS
+
+Els clients detecten que no hi ha reposadors i se'n van.
+
+********** La màquina està preparada
+Albert diu: No hi ha reposadors a la màquina, me'n vaig
+Aina diu: No hi ha reposadors a la màquina, me'n vaig
+Bernat diu: No hi ha reposadors a la màquina, me'n vaig
+Laura diu: No hi ha reposadors a la màquina, me'n vaig
+Bel diu: No hi ha reposadors a la màquina, me'n vaig
