@@ -9,7 +9,7 @@ This exercise involves managing threads with mutexes and semaphores in Python. S
 ### P2: the vending machine 
 In this exercise, we manage threads using Ada's protected objects and monitors. The system simulates an empty vending machine where customers buy refreshments and stockers restock the machine until everyone has consumed their items.
 
-# P3: the ilegal tobacconist
+### P3: the ilegal tobacconist
 The final exercise is coded using channels with RabbitMQ's server in Go. An illegal tobacconist serves tobacco and fire to his customers until a snitch alerts him that the police are coming. At that point, the tobacconist hides the ilegal material and ends.
 
 ## Authors
