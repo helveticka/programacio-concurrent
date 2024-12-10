@@ -1,4 +1,4 @@
-# Programació Concurrent projects
+# Programació Concurrent
 
 ## Content
 In this repository there are three directorys, where I store each one of the subject assigned exercises. 
