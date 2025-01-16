@@ -12,7 +12,7 @@ In this exercise, we manage threads using Ada's protected objects and monitors. 
 ### P3: the ilegal tobacconist
 The final exercise is coded using channels with RabbitMQ's server in Go. An illegal tobacconist serves tobacco and fire to his customers until a snitch alerts him that the police are coming. At that point, the tobacconist hides the ilegal material and ends.
 
-## Authors
+## Author
 Developed by [Harpo Joan](https://github.com/helveticka)
 
 ## License
